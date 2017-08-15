@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Bloc Chat
 thumbnail-path: "img/blocchat.png"
 short-description: Bloc Chat is a message board like chatroom app that allows you to create your own chat rooms.
