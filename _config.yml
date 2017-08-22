@@ -5,7 +5,7 @@ url: "http://www.your-domain.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Matthew Musser
+  title: Matt Musser
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
@@ -39,7 +39,7 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-105149195-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
