@@ -2,7 +2,7 @@
 layout: post
 title: Bloc Jams
 thumbnail-path: "img/blocjams.png"
-short-description: Bloc Jams is a spotify life music for the best music and listening to them online.
+short-description: Bloc Jams is a sophisticated Spotify like application built using AngularJS.
 
 ---
 
@@ -10,16 +10,16 @@ short-description: Bloc Jams is a spotify life music for the best music and list
 ![]({{ site.baseurl }}/img/blocjams.png)
 
 ## Explanation
-I was assigned to create a music app using jQuery, Angular, and Buzz that anyone could use.
+In this project I used AngularJs to build a Spotify like application.
 
 ## Problem
-Too many complicated music apps.
+I needed to learn how to use AngularJS and it's different methods to build the application.
 
 ## Solution
-Bloc Jams curates a selection of songs anyone can listen to.
+I learned how to control the flow of data in my application and keep the code modularized by using controllers. I learned how to use Angular Services to organize and share code across the application especially in regards to Bloc Jams player bar. I used Angular directives to update the seek bar as a song plays and added an Angular filter to convert the song time into minutes.
 
-## Reults
-A colorful simple music player that's nice to look at and use.
+## Results
+My work resulted in a well polished responsive music application.
 
 ## Conclusion
-Bloc Jams is an easy to use app that anyone can use.
+I learned that AngularJs is a powerful tool that can add a lot of functionality to a website or web application.
