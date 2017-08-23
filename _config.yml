@@ -5,12 +5,12 @@ url: "http://mattmusser.github.io" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Matt Musser
+  title: web developmently Speaking
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Web Developmently Speaking</h1>
+     <h1>Matt Musser</h1>
      <p></p>
   header_text_feature_image:
   footer_text: >
