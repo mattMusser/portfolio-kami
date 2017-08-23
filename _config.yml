@@ -5,7 +5,7 @@ url: "http://www.mattmusser.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Web Developmently Speaking
+  title: Matt Musser: A Portfolio
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
