@@ -2,5 +2,5 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "img/about-photo.jpg"
+feature-img: "img/about-photo.png"
 ---
