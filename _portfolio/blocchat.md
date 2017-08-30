@@ -22,4 +22,4 @@ I used Bootstrap to add a polished look to my application and used its grid syst
 My work resulted in a polished real-time chat application that is responsive and user friendly.
 
 ## Conclusion
-I learned that Bootstrap is a powerful tool to give your website or web application more polish and responsiveness. Firebase is a powerful tool which adds great database functionality to websites and web applications.
+I learned that Bootstrap is a powerful tool to give your website or web application more polish and responsiveness. Firebase is a powerful tool which adds great database capabilities to websites and web applications through their API without needing to add your own back-end server.
