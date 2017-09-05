@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Recent Realilzation
+title: My Recent Realization
 ---
 I wish I could say that I was great at front-end development. I wish I could say that I was awesome working with CSS3 or Bootstrap. I wish I could say that I'm able to make awesomely designed websites sites. I wish I could say that I was adept at all of that but I can't. I just can't grasp it. It is too abstract for me to visualize in my mind what the code for CSS3 or Bootstrap looks like and as a result, I have a hard time coding it to where it looks great on the screen.
 
